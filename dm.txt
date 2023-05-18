@@ -1,4 +1,3 @@
-
 {
 //jar
 "spider":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/0511.jar;md5;fb74b8d749b15619496b1583741240e7",
@@ -25,6 +24,9 @@
 
 
 {"key":"csp_Dm84","name":"🚐动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "动漫直链","name": "动漫直链","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/动漫直链xp.json"},
+
+            {"key":"csp_xpath_dmw","name":"动漫岛", "type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/clear1/yingmi/-/raw/main/dm/dmw.json"},
 
 {"key":"csp_Ysj","name":"🌐异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 
