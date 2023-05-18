@@ -46,7 +46,7 @@
             "filterable": 1
         },
         {
-            "key": "js路漫漫",
+            "key": "路漫漫",
             "name": "路漫漫动漫",
             "type": 3,
             "api": "./dm/drpy2.min.js",
@@ -60,10 +60,10 @@
             "name": "🧬拿铁┃动漫",
             "type": 3,
             "api": "./dm/drpy2.min.js",
-            "ext": "./js/ntdm.js"
+            "ext": "./dm/NT动漫.js"
         },
         {
-            "key": "妮可动漫",
+            "key": "妮可",
             "name": "妮可动漫",
             "type": 3,
             "api": "./dm/drpy.min.js",
@@ -112,13 +112,6 @@
             "ext": "./dm/嘶哩嘶哩.js"
         },
         {
-            "key": "drpy_js_NT动漫",
-            "name": "NT动漫",
-            "type": 3,
-            "api": "./dm/drpy2.min.js",
-            "ext": "./dm/NT动漫.js"
-        },
-        {
             "key": "drpy_js_omofun动漫",
             "name": "omofun动漫",
             "type": 3,
@@ -146,7 +139,7 @@
             "ext": "./dm/维奇.json"
         },
         {
-            "key": "csp_bendi",
+            "key": "本地",
             "name": "本地视频 ",
             "type": 3,
             "api": "csp_LocalFile",
