@@ -6,8 +6,8 @@
             "key": "drpy_js_AGE动漫",
             "name": "AGE动漫",
             "type": 3,
-            "api": "./dm/drpy.min.js",
-            "ext": "./dm/AGE动漫.js"
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/drpy.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/AGE动漫.js"
         },
         {
             "key": "csp_Dm84",
@@ -49,74 +49,74 @@
             "key": "路漫漫",
             "name": "路漫漫动漫",
             "type": 3,
-            "api": "./dm/drpy2.min.js",
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./dm/路漫漫.js"
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/路漫漫.js"
         },
         {
             "key": "nt动漫",
             "name": "🧬拿铁┃动漫",
             "type": 3,
-            "api": "./dm/drpy2.min.js",
-            "ext": "./dm/NT动漫.js"
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/NT动漫.js"
         },
         {
             "key": "妮可",
             "name": "妮可动漫",
             "type": 3,
-            "api": "./dm/drpy.min.js",
-            "ext": "./dm/妮可动漫.js"
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/drpy.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/妮可动漫.js"
         },
         {
             "key": "怡萱动漫",
             "name": "怡萱动漫",
             "type": 3,
-            "api": "./dm/drpy.min.js",
-            "ext": "./dm/怡萱动漫.js"
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/drpy.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/怡萱动漫.js"
         },
         {
             "key": "奇米动漫",
             "name": "奇米动漫",
             "type": 3,
-            "api": "./dm/drpy.min.js",
-            "ext": "./dm/奇米动漫.js"
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/drpy.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/奇米动漫.js"
         },
         {
             "key": "drpy_js_AnFuns",
             "name": "AnFuns",
             "type": 3,
-            "api": "./dm/drpy.min.js",
-            "ext": "./dm/AnFuns.js"
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/drpy.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/AnFuns.js"
         },
         {
             "key": "drpy_js_爱弹幕",
             "name": "爱弹幕",
             "type": 3,
-            "api": "./dm/drpy2.min.js",
-            "ext": "./dm/爱弹幕.js"
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/爱弹幕.js"
         },
         {
             "key": "drpy_js_兔小贝",
             "name": "兔小贝",
             "type": 3,
-            "api": "./dm/drpy2.min.js",
-            "ext": "./dm/兔小贝.js"
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/兔小贝.js"
         },
         {
             "key": "drpy_js_嘶哩嘶哩",
             "name": "嘶哩嘶哩",
             "type": 3,
-            "api": "./dm/drpy2.min.js",
-            "ext": "./dm/嘶哩嘶哩.js"
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/嘶哩嘶哩.js"
         },
         {
             "key": "drpy_js_omofun动漫",
             "name": "omofun动漫",
             "type": 3,
-            "api": "./dm/drpy2.min.js",
-            "ext": "./dm/omofun动漫.js"
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/omofun动漫.js"
         },
         {
             "key": "去看吧",
@@ -126,7 +126,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./dm/去看吧.json"
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/去看吧.json"
         },
         {
             "key": "维奇",
@@ -136,18 +136,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./dm/维奇.json"
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/维奇.json"
         },
-        {
-            "key": "本地",
-            "name": "本地视频 ",
-            "type": 3,
-            "api": "csp_LocalFile",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "type_flag": 1
-        },
+       {"key":"本地","name":"🕳️YYDS┃本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
 {
   "key": "量子资源",
   "name": "量子资源",
