@@ -1,7 +1,6 @@
-
 {
 //jar
-"spider":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/0519.jar;md5;fb74b8d749b15619496b1583741240e7",
+"spider":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/0526.jar;md5;5f32d6b53d2eb5f0479c9b0f9719b1c6",
 
 
 //壁纸
