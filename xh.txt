@@ -1,7 +1,7 @@
 
 {
 //jar
-"spider":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/0602.jar;md5;61481b21ab128014bb527a0f0ad4a45b",
+"spider":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/0602.jar;md5;140af92cdcec047b19945c5f7015cf4a",
 
 
 //壁纸
@@ -30,7 +30,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"😭豆瓣┃适配","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/douban.js"},
+{"key":"豆瓣","name":"🍃豆瓣┃","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/douban.js"},
 
 {"key":"本地","name":"🕳️YYDS┃本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
 
@@ -54,7 +54,7 @@
 
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},  
 
-{"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://ys.realdou.cn:8652/api.php/app/"},  
+{"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},  
 
 {"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://vod.dmdh.top:5680/api.php/app/"},
 
@@ -279,11 +279,6 @@
 
 {"key":"吼吼","name":"🛩️吼吼┃墙外","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/吼吼.js"}
 
-
-
-
-
-
 ],
 
 
@@ -291,6 +286,8 @@
 //解析
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
+
+{"name":"4K","type":1,"url":"http://json.key521.cn/api/?key=545dcd754879dc02a6087dd1d47e38d0&url="},
 
 {"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
