@@ -8,7 +8,8 @@
 
 
 //直播	
-"lives":[{"name":"live","type":0,"url":"https://jihulab.com/clear1/yingmi/-/raw/main/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},]
+"lives":[{"name":"live","type":0,"url":"https://jihulab.com/clear1/yingmi/-/raw/main/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+],
 
 
 
