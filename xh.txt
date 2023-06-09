@@ -33,7 +33,7 @@
 
 {"key":"本地","name":"🕳️YYDS┃本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
 
-{"key":"直播转点播","name":"📺电视┃直播","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/js/直播转点播.js","searchable":0,"quickSearch":0,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/json/直播仓.json"},
+{"key":"直播转点播","name":"📺电视┃直播","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/js/直播转点播.js","searchable":0,"quickSearch":0,"ext":"https://jihulab.com/clear1/yingmi/-/raw/main/zhibo.txt"},
 
 {"key":"在线","name":"🗒️在线┃之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 
