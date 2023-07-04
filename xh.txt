@@ -585,7 +585,15 @@
     }
   ],
   "lives": [
-
+    {
+      "name": "live",
+      "type": 0,
+      "playerType": 1,
+      "url": "aHR0cDovL2h6NzUyLmxvdmU6NjMvdHh0L3lzYm94LnR4dA==",
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "group": "redirect",
       "channels": [
