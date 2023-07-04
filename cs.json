@@ -659,18 +659,7 @@
 {"name":"常用2","type":0,"url":"https://dxawi.github.io/0/tvlive.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"常用3","type":0,"url":"http://我不是.肥猫.love:63/TV/tvzb.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
 ],
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL2h6NzUyLmxvdmU6NjMvdHh0L3R2YnMudHh0"
-          ]
-        }
-      ]
-    }
-  ],
+  
   "parses": [
     {
       "name": "解析聚合",
