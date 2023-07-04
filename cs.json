@@ -655,9 +655,9 @@
     }
   ],
   "lives": [
-{"name":"常用1","type":0,"url":"clan://tvbox/lives/1.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"常用2","type":0,"url":"clan://tvbox/lives/2.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"常用3","type":0,"url":"clan://tvbox/lives/3.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+{"name":"常用1","type":0,"url":"https://agit.ai/xiaohu/tvbox/raw/branch/main/live.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"常用2","type":0,"url":"https://dxawi.github.io/0/tvlive.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"常用3","type":0,"url":"http://我不是.肥猫.love:63/TV/tvzb.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
 ],
     {
       "group": "redirect",
