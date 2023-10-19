@@ -113,7 +113,9 @@
       "name": "🎬┃荐片┃影视",
       "type": 3,
       "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js",
+      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+      },
+
     {
       "key": "磁力熊",
       "name": "🐻┃熊熊┃磁力",
