@@ -53,7 +53,7 @@
       "name": "👻┃Mino┃影视",
       "type": 3,
       "api": "csp_Appto",
-      "jar": "http://我不是.肥猫.love:63/Jar/Appto.jar;md5;2138f6a22c9ced72f15e0618606f3cfa",
+      "jar": "http://我不是.肥猫.love:63/Jar/fm1018.jar;md5;77a7f4d8c203027fe8e07c916276e879",
       "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
     },
     {
@@ -61,14 +61,14 @@
       "name": "🍊┃橘子┃影视",
       "type": 3,
       "api": "csp_Appto",
-      "jar": "http://我不是.肥猫.love:63/Jar/Appto.jar;md5;2138f6a22c9ced72f15e0618606f3cfa",
+      "jar": "http://我不是.肥猫.love:63/Jar/fm1018.jar;md5;77a7f4d8c203027fe8e07c916276e879",
       "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjE"
     },
     {
       "key": "追忆影视",
       "name": "💡┃追忆┃影视",
       "type": 3,
-      "jar": "http://我不是.肥猫.love:63/Jar/Appto.jar;md5;2138f6a22c9ced72f15e0618606f3cfa",
+      "jar": "http://我不是.肥猫.love:63/Jar/fm1018.jar;md5;77a7f4d8c203027fe8e07c916276e879",
       "api": "csp_Appto",
       "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
     },
