@@ -116,7 +116,7 @@
         "quickSearch":1,
         "filterable":1,
         "ext":"https://ownjpykxttjzuhy.jiesiwa.com",
-        "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/custom_spider.jar;md5;355a6227d33a26924bdbd795ae58955f",
+        "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/custom_spider.jar;md5;355a6227d33a26924bdbd795ae58955f"
         },
 
     {
