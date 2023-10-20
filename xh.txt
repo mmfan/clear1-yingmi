@@ -75,7 +75,7 @@
     {
       "key": "喵喵影视",
       "name": "😺┃喵喵┃影视",
-      "jar": "http://我不是.肥猫.love:63/Jar/Appto.jar;md5;2138f6a22c9ced72f15e0618606f3cfa",
+      "jar": "http://我不是.肥猫.love:63/Jar/fm1018.jar;md5;77a7f4d8c203027fe8e07c916276e879",
       "type": 3,
       "api": "csp_Appto",
       "ext": "u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="
@@ -113,7 +113,7 @@
       "name": "🎬┃荐片┃影视",
       "type": 3,
       "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+      "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jp.js"
       },
 
     {
