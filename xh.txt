@@ -1692,7 +1692,7 @@
     }
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
+  "spider": "https://jihulab.com/duomv/xduo/-/raw/main/main.jar;md5;d42cc8d191481fc9beeb1bff4bc747cb",
   "lives": [
     {
       "name": "live",
