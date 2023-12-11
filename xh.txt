@@ -252,7 +252,15 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/348影视.json"
     },
-     
+     {
+            "key": "蝴蝶",
+            "name": "蝴蝶┃App",
+            "type": 3,
+            "api": "csp_Hudie",
+            "playerType": 2,
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
+        },
      {
       "key": "yqkan_open",
       "name": "🛁┃一起┃2K",
@@ -263,16 +271,150 @@
       "filterable": 0,
       "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
     },
-     {
-      "key": "js_nangua",
-      "name": "🎃┃南瓜┃2K",
-      "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/nangua.js"
-    },
+{
+            "key": "蜂鸟",
+            "name": "蜂鸟┃App",
+            "type": 3,
+            "api": "csp_Skapp",
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/fengniao"
+        },
+        {
+            "key": "君离",
+            "name": "君离┃App",
+            "type": 3,
+            "api": "csp_Skapp",
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/junli"
+        },
+        {
+            "key": "极光",
+            "name": "极光┃App",
+            "type": 3,
+            "api": "csp_Skapp",
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/jiguang"
+        },
+        {
+            "key": "tvbsk",
+            "name": "TVB云播┃App",
+            "type": 3,
+            "api": "csp_Skapp",
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/tvbyb"
+        },
+        {
+            "key": "嘶哩",
+            "name": "嘶哩┃App",
+            "type": 3,
+            "api": "csp_Skapp",
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/sili"
+        },
+        {
+            "key": "嘿嘿",
+            "name": "嘿嘿┃App",
+            "type": 3,
+            "api": "csp_qiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/heihei"
+        },
+        {
+            "key": "超神",
+            "name": "超神┃App",
+            "type": 3,
+            "api": "csp_qiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
+        },
+        {
+            "key": "老虎",
+            "name": "老虎┃App",
+            "type": 3,
+            "api": "csp_qiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/laohu"
+        },
+        {
+            "key": "樱花",
+            "name": "樱花┃App",
+            "type": 3,
+            "api": "csp_qiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/yinghua"
+        },
+        {
+            "key": "星星",
+            "name": "星星┃App",
+            "type": 3,
+            "api": "csp_qiao",
+            "playerType": 2,
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/xingxing"
+        },
+        {
+            "key": "星星",
+            "name": "星星┃App",
+            "type": 3,
+            "api": "csp_qiao",
+            "playerType": 2,
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/laohu"
+        },
+        {
+            "key": "K影",
+            "name": "K影院┃App",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "playerType": 2,
+            "ext": "http://iosa.xn--654a.cc/api.php/app/"
+        },
+        {
+            "key": "天天",
+            "name": "天天┃App",
+            "type": 3,
+            "api": "csp_TTian",
+            "playerType": 1,
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "ext": "http://op.ysdqjs.cn"
+        },
+        {
+            "key": "南瓜",
+            "name": "南瓜┃App",
+            "type": 3,
+            "api": "csp_NanGua",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
+            "ext": ""
+        },
      {
       "key": "豪华资源",
       "name": "🥬┃豪华┃2K",
@@ -2014,3 +2156,4 @@
     "cms.qdwght.com"
   ]
 }
+			
